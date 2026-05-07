@@ -313,7 +313,7 @@ Please consult a qualified healthcare professional for accurate diagnosis and tr
     st.markdown("""
         <div style='text-align: center; color: #666; padding: 20px;'>
         <p><strong>Disclaimer:</strong> This is not a medical diagnosis. Consult a doctor.</p>
-        <p>Developed for educational purposes | 2024</p>
+        <p>Developed for learning purposes | 2026</p>
         </div>
     """, unsafe_allow_html=True)
 
