@@ -632,6 +632,7 @@ def main():
         st.divider()
         st.markdown(" ")
         st.markdown(" ")
+        st.markdown(" ")
 
         predict_button = st.button(
             "Predict Disease",
